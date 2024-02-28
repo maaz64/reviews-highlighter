@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reviews-highlighter/static/css/main.0690c9e0.css",
+    "main.js": "/reviews-highlighter/static/js/main.df2b7603.js",
+    "index.html": "/reviews-highlighter/index.html",
+    "main.0690c9e0.css.map": "/reviews-highlighter/static/css/main.0690c9e0.css.map",
+    "main.df2b7603.js.map": "/reviews-highlighter/static/js/main.df2b7603.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0690c9e0.css",
+    "static/js/main.df2b7603.js"
+  ]
+}
